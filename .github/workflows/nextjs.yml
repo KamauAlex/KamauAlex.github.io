@@ -23,7 +23,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages # You can change this to a different branch if needed
