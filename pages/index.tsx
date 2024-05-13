@@ -132,7 +132,7 @@ export default function Home() {
 
 			{!isBlackListed ? (
 				<div className='relative snap-mandatory min-h-screen bg-AAprimary w-full '>
-					{context.sharedState.finishedLoading ? <></> : ShowThisCantBeReached ? <ThisCantBeReached /> : <></>}
+					{context.sharedState.finishedLoading ? <></> : ShowThisCantBeReached ? <Startup /> : <></>}
 					{context.sharedState.finishedLoading ? <></> : ShowElement ? <Startup /> : <></>}
 					<Header finishedLoading={context.sharedState.finishedLoading} sectionsRef={homeRef} />
 					<MyName finishedLoading={context.sharedState.finishedLoading} />
