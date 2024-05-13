@@ -29,11 +29,11 @@ export default function AboutMe(props) {
 					<div className='w-full md:w-7/12 space-y-4 sm:text-base text-sm '>
 						<div className='font-Header '>
 							<span className='text-gray-400 '>
-								Hello! My name is Alexander Njuguna, and I am a passionate software engineer and problem solver,
-								dedicated to creating impactful codes that solves real problems effectively and efficiently. My
-								journey in Software Engineering began in 2017 when I delved into the world of Android Mobile app
-								development in Kejacop. My interest and love for programming grew since then, more so when I
-								started understanding the impact the products I worked on in the real estate industry.
+								Hi, I&apos;m Alexander Njuguna, a passionate software engineer with a knack for problem-solving.
+								I&apos;m dedicated to crafting impactful code that solves real-world problems effectively. My
+								journey in software engineering began in 2017 with Android mobile app development in Kejacop. That
+								experience ignited my passion for programming, especially when I saw the impact my work had on the
+								real estate industry.
 							</span>
 						</div>
 						<div className='font-Header '>
