@@ -52,16 +52,11 @@ export default function MyName(props: { finishedLoading: boolean }) {
 				}}
 				className='text-gray-400 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider'
 			>
-				I&apos;m a <span className='text-AAsecondary'>software engineer</span>, i possess strong problem-solving and
-				communication skills vital in crafting exceptional <br className='2xl:block hidden' />
-				digital experiences. My current area of focus is in{' '}
-				<span className='text-AAsecondary'>UI Development & Design</span>, where I actively engage in developing{' '}
-				<br className='2xl:block hidden' />
-				and designing innate <span className='text-AAsecondary'>Mobile and Web applications</span>. I have worked in
-				<span className='text-AAsecondary'> Agile Teams</span> and as a{' '}
-				<span className='text-AAsecondary'>Solo Developer </span>.
-				{/* <br className="2xl:block hidden" />creating and deploying them, as well as implementing the
-        front-end components to enable seamless user interactions. */}
+				I&apos;m a seasoned<span className='text-AAsecondary'> software engineer</span> with a focus on{' '}
+				<span className='text-AAsecondary'>UI development and design</span>. I leverage strong problem-solving and
+				communication skills to craft exceptional user experiences for{' '}
+				<span className='text-AAsecondary'> mobile and web applications </span>. My experience encompasses both agile team
+				collaboration and solo development, allowing me to adapt to different project environments.
 			</motion.h3>
 			<motion.div
 				initial={{ y: 10, opacity: 0 }}
