@@ -83,8 +83,8 @@ export default function SomethingIveBuilt() {
 								<p className='text-gray-300 md:text-gray-400 text-left md:text-right '>
 									At <span className='text-AAsecondary'>Focus Mobile</span>, I played a crucial role in
 									developing frontend interface for their{' '}
-									<span className='text-AAsecondary'>Smsleopard platform</span> using React.js and Typescript
-									and Tailwind. Our focus was on integrating new features and improving the user interface. One
+									<span className='text-AAsecondary'>Smsleopard platform</span> using React.js, Typescript and
+									Tailwind. Our focus was on integrating new features and improving the user interface. One
 									notable achievement was the release of 3 new products{' '}
 									<span className='text-AAsecondary'>bulk payments, bulk airtime, bulk mobile data</span>{' '}
 									enabling users to have all their communication needs{' '}
